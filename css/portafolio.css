@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    body{
+        
+        font-family: 'Open Sans';
+        background-image: url(/SRC/img/Portafolioimage.png);
+        background-size: 100VW 100vh;
+        background-color: rgba(255, 166, 0, 0.514);
+    }
+   ul li{
+    list-style: none;
+    text-decoration: none;
+   }
+    
+       
+  
